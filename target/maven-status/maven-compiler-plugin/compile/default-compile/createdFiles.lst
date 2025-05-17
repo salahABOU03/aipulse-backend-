@@ -1,0 +1,6 @@
+com\aipulse\backend\controller\DiagnosisController.class
+com\aipulse\backend\BackendApplication.class
+com\aipulse\backend\dto\DiagnosisRequest.class
+com\aipulse\backend\dto\DiagnosisResponse.class
+com\aipulse\backend\entity\Diagnosis.class
+com\aipulse\backend\repository\DiagnosisRepository.class
